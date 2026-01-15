@@ -1,0 +1,7 @@
+{
+  "name": "KET Writing AI Examiner",
+  "description": "An AI-powered grading system for Cambridge A2 Key (KET) writing tasks, providing official scores, scale conversion, and detailed pedagogical feedback based on exam criteria.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
